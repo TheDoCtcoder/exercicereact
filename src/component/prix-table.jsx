@@ -51,6 +51,7 @@ const PrixTableRow = ({nom,prix,promo}) => (
                 <tr>
                     <th>TVA</th>
                     <th>{(prixafficher*0.21).toLocaleString("be-FR", {style:"currency", currency:"EUR"})}</th>
+                    <th>21%</th>
                 </tr>
                 <tr>
                     <th>TTVAC</th>
