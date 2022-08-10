@@ -1,11 +1,14 @@
 table.prixTable {
     width: 50%;
     margin: 0 auto;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     color: white;
 }
 table.prixTable thead {
 color: black;
 font-size: 1.8rem;
+}
+table.prixTable tfoot {
+    color : black;
 }
 

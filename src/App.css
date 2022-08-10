@@ -2,10 +2,12 @@
   display: flex;
   flex-direction:column;
   text-align: center;
-  background-color: rgb(8, 119, 157);
+  background-color: rgb(46, 198, 249);
   height: 100vh;
 }
 
 h1 {
   color:white;
 }
+
+
