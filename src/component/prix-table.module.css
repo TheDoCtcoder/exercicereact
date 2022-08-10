@@ -1,0 +1,11 @@
+table.prixTable {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.3rem;
+    color: white;
+}
+table.prixTable thead {
+color: black;
+font-size: 1.8rem;
+}
+

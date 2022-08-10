@@ -1,0 +1,21 @@
+[
+    {
+        "id" : 1,
+        "nom" : "Nike Air Max",
+        "prix" : 119.99,
+        "promo" : true
+    },
+    {
+        "id" : 2,
+        "nom" : "Polo Lacoste",
+        "prix" : 85,
+        "promo" : false
+    },
+    {
+        "id" : 3,
+        "nom" : "Training Adidas TeamSpirit",
+        "prix" : 145,
+        "promo" : true
+    }
+
+]
